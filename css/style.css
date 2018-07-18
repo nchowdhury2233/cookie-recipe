@@ -1,0 +1,13 @@
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+}
+body {
+	background: #FFE;
+	border-color: white black black black;
+	border-width: 1px 2px 3px 4px;
+	border-style: solid;
+}
+a {
+	color: #900;
+}
